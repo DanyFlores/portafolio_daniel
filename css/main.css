@@ -285,10 +285,9 @@ input[type="submit"]:focus {
     max-height: 80vh;
     min-height: inherit;
     text-align: center;
-    padding: 70px 30px 45px;
-    overflow: auto;
+    padding: 45px 30px 45px;
+    overflow: auto
   }
-
   .header-titles {
 
   }
@@ -2883,7 +2882,6 @@ blockquote {
  .lm-animated-bg {
     display: none;
  }
-
  .title-block h2 {
     font-size: 48px;
     line-height: 56px;
